@@ -1,2 +1,2 @@
-# Think-ISL
-PACMAN - Product And Communication Manger
+# Think New API
+P.A.D.I.S - Product, Accounting & Data Integration System
